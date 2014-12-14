@@ -1,0 +1,9 @@
+E:\SUBIR (12.12.2014)\TicketApp\TicketApp\bin\Debug\TicketApp.exe.config
+E:\SUBIR (12.12.2014)\TicketApp\TicketApp\bin\Debug\TicketApp.exe
+E:\SUBIR (12.12.2014)\TicketApp\TicketApp\bin\Debug\TicketApp.pdb
+E:\SUBIR (12.12.2014)\TicketApp\TicketApp\obj\Debug\TicketApp.Form1.resources
+E:\SUBIR (12.12.2014)\TicketApp\TicketApp\obj\Debug\TicketApp.Properties.Resources.resources
+E:\SUBIR (12.12.2014)\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.Cache
+E:\SUBIR (12.12.2014)\TicketApp\TicketApp\obj\Debug\TicketApp.exe
+E:\SUBIR (12.12.2014)\TicketApp\TicketApp\obj\Debug\TicketApp.pdb
+E:\SUBIR (12.12.2014)\TicketApp\TicketApp\obj\Debug\TicketApp.csprojResolveAssemblyReference.cache

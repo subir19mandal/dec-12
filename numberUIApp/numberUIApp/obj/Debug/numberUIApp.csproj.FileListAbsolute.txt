@@ -1,0 +1,9 @@
+E:\SUBIR (12.12.2014)\numberUIApp\numberUIApp\bin\Debug\numberUIApp.exe.config
+E:\SUBIR (12.12.2014)\numberUIApp\numberUIApp\bin\Debug\numberUIApp.exe
+E:\SUBIR (12.12.2014)\numberUIApp\numberUIApp\bin\Debug\numberUIApp.pdb
+E:\SUBIR (12.12.2014)\numberUIApp\numberUIApp\obj\Debug\numberUIApp.csprojResolveAssemblyReference.cache
+E:\SUBIR (12.12.2014)\numberUIApp\numberUIApp\obj\Debug\numberUIApp.Form1.resources
+E:\SUBIR (12.12.2014)\numberUIApp\numberUIApp\obj\Debug\numberUIApp.Properties.Resources.resources
+E:\SUBIR (12.12.2014)\numberUIApp\numberUIApp\obj\Debug\numberUIApp.csproj.GenerateResource.Cache
+E:\SUBIR (12.12.2014)\numberUIApp\numberUIApp\obj\Debug\numberUIApp.exe
+E:\SUBIR (12.12.2014)\numberUIApp\numberUIApp\obj\Debug\numberUIApp.pdb
